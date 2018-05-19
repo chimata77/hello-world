@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+hi
+
+i am srinivas delighted to join github group
